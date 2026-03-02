@@ -12,12 +12,12 @@ body
 @font-face
 {
     font-family: 'OpenSans';
-    src: url('OpenSans.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/familiapablo/77550011@main/1/OpenSans.ttf');
 }
 @font-face
 {
     font-family: 'RobotoMono';
-    src: url('RobotoMono.ttf');
+    src: url('https://cdn.jsdelivr.net/gh/familiapablo/77550011@main/1/RobotoMono.ttf');
 }
 </style>
 </head>
