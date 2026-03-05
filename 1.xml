@@ -7,22 +7,6 @@
 <head>
 
   <meta charset="utf-8">
-
-  <title>SOCCER BROS! | Official Site</title>
-
-  <meta name="description" content="Online multiplayer soccer! Score goals on your bros!" />
-  <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <link rel="shortcut icon" type="image/png" href="./favicon.png">
-  <meta name="Keywords" content="Soccer, Play, Free, Online, Multiplayer, Games, IO, Sports, Scrolling, Friends">
-  <meta name="author" content="Blue Wizard Digital">
-
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://soccerbros.gg" />
-  <meta property="og:title" content="Soccer Bros" />
-  <meta property="og:description" content="Online multiplayer Soccer! Score goals on your bros!" />
-  <meta property="og:image" content="https://soccerbros.gg/kick/splash.jpg" />
-  <link rel="manifest" href="manifest.json">
-
     <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/brodeliver/sb@3/SoccerBros.js?th=102"></script>
   <script>
     window.addEventListener ("touchmove", function (event) { event.preventDefault (); }, { capture: false, passive: false });
